@@ -23,7 +23,7 @@ description: <i>G</i>=1&emsp;<i>c</i><sup>-1</sup>=1&emsp;ℏ=0
 
 
 
-<p>Dann nämlich bewegen sich Teilchen auf gekrümmten Bahnen ohne Kraftwirkung oder anders formuliert: Gravitation ist identisch mit der Krümmung der Raumzeit. »Wir wollen daher im folgenden die völlige physikalische Gleichwertigkeit von Gravitationsfeld und entsprechender Beschleunigung des Bezugssystems annehmen.« (Einstein 1907) Die Objekte, die sich im Kosmos bewegen, folgen in ihren Bahnen also nur einem Ziel: Der kürzesten und schnellsten Verbindung in einer gekrümmten Raumzeit. Auf ihrem Weg krümmen sie mit ihrer Masse und Energie wiederum die Raumzeit in ihrer unmittelbaren Umgebung. Alles ist in Bewegung, alles ist dynamisch und höchst nichtlinear. Das ist es, was Einsteins Feldgleichungen beschreiben: Materie (<i>T<sub>mn</sub></i>) krümmt (<i>R<sub>mn</sub></i> und <i>R</i>) die Raumzeit (<i>g<sub>mn</sub></i>).</p>
+<p>Dann nämlich bewegen sich Teilchen auf gekrümmten Bahnen ohne Kraftwirkung oder anders formuliert: Gravitation ist identisch mit der Krümmung der Raumzeit. »Wir wollen daher im folgenden die völlige physikalische Gleichwertigkeit von Gravitationsfeld und entsprechender Beschleunigung des Bezugssystems annehmen.« (Einstein 1907) Die Objekte, die sich im Kosmos bewegen, folgen in ihren Bahnen also nur einem Ziel: Der kürzesten und schnellsten Verbindung in einer gekrümmten Raumzeit. Auf ihrem Weg krümmen sie mit ihrer Masse und Energie wiederum die Raumzeit in ihrer unmittelbaren Umgebung. Alles ist in Bewegung, alles ist dynamisch und höchst nichtlinear. Das ist es, was Einsteins Feldgleichungen beschreiben: Materie (<i>T<sub>&mu;&nu;</sub></i>) krümmt (<i>R<sub>mn</sub></i> und <i>R</i>) die Raumzeit (<i>g<sub>mn</sub></i>).</p>
 
 
 
