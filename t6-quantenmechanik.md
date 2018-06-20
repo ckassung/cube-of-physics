@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quantenmechanik
-description: <i>G</i>=0&emsp;<i>c</i><sup>-1</sup>=0&emsp;ℏ=0
+description: <i>G</i>=0&emsp;<i>c</i><sup>-1</sup>=0&emsp;ℏ=1
 ---
 
 <section>
