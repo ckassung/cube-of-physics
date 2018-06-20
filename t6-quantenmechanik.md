@@ -23,6 +23,6 @@ description: <i>G</i>=0&emsp;<i>c</i><sup>-1</sup>=0&emsp;ℏ=0
 
 
 
-<p>Man beachte die Asymmetrie von Raum und Zeit: Die zeitliche Ableitung ist erster Ordnung, die Ableitungen nach den Raumkoordinaten <i>x</i>, <i>y</i>, <i>z</i> sind dagegen zweiter Ordnung. Kein Wunder, denn die Gleichung stammt aus der quantenmechanischen Verallgemeinerung von Newtons Mechanik, und widerspricht der <a href="{{ "/t4-spezielle-relativitaetstheorie.html" | relative_url }}">Speziellen Relativitätstheorie</a>. Dies sehen wir auch schon daraus, dass die Lichtgeschwindigkeit <i>c</i> nicht vorkommt. </p>
+<p>Man beachte die Asymmetrie von Raum und Zeit: Die zeitliche Ableitung ist erster Ordnung, die Ableitungen nach den Raumkoordinaten <i>x</i>, <i>y</i>, <i>z</i> sind dagegen zweiter Ordnung. Kein Wunder, denn die Gleichung stammt aus der quantenmechanischen Verallgemeinerung von <a href="{{ "/t1-newtonsche-mechanik.html" | relative_url }}">Newtons Mechanik</a>, und widerspricht der <a href="{{ "/t4-spezielle-relativitaetstheorie.html" | relative_url }}">Speziellen Relativitätstheorie</a>. Dies sehen wir auch schon daraus, dass die Lichtgeschwindigkeit <i>c</i> nicht vorkommt. </p>
 
 </section>
