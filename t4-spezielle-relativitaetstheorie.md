@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Spezielle Relativitätstheorie
-description: <i>G</i>=0&emsp;<i>c</i><sup>-1</sup>=0&emsp;ℏ=0
+description: <i>G</i>=0&emsp;<i>c</i><sup>-1</sup>=1&emsp;ℏ=0
 ---
 
 <section>
