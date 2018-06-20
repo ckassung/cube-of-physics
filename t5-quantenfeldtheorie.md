@@ -6,22 +6,21 @@ description: <i>G</i>=0&emsp;<i>c</i><sup>-1</sup>=0&emsp;ℏ=0
 
 <section>
 
-	<p>Die Quantenmechanik wurde in den 1920er Jahren zunächst im nichtrelativistischen Limesbereich c—1=0
-formuliert, obwohl die Richtigkeit von Einsteins Spezieller Relativitätstheorie bereits seit Jahren, von einigen
-antisemitischen Idioten abgesehen, allgemein anerkannt war. Dirac gelang es 1928, eine eigenartige relativistische Wellengleichung aufzustellen, die die Schrödinger-Gleichung nichttrivial verallgemeinerte. Insbesondere erklärte sie den Spin des Elektrons und sagte dessen Antiteilchen voraus. Ein Triumph war die experimentelle Bestätigung dieses Positrons durch Carl Anderson 1932. Allerdings führte die Interpretation der Dirac-Gleichung als Wellengleichung zu Widersprüchen. Zudem ergaben sich Probleme bei der Quantisierung der Elektrodynamik, die ebenfalls eine c—1=1 Theorie ist. Als Ausweg wurde die Quantenfeldtheorie als eine relativistisch konsistente Vielteilchentheorie entwickelt. Diese führte zum Standardmodell der Elementarteilchen, das alle Naturkräfte mit Ausnahme der Gravitation präzise beschreibt. </p>
+	<p>Die <a href="{{ "/t6-quantenmechanik.html" | relative_url }}">Quantenmechanik</a> wurde in den 1920er Jahren zunächst im nichtrelativistischen Limesbereich <i>c</i><sup>-1</sup>=0
+formuliert, obwohl die Richtigkeit von Einsteins <a href="{{ "/t4-spezielle-relativitaetstheorie.html" | relative_url }}">Spezieller Relativitätstheorie</a> bereits seit Jahren, von einigen
+antisemitischen Idioten abgesehen, allgemein anerkannt war. Dirac gelang es 1928, eine eigenartige relativistische Wellengleichung aufzustellen, die die Schrödinger-Gleichung nichttrivial verallgemeinerte. Insbesondere erklärte sie den Spin des Elektrons und sagte dessen Antiteilchen voraus. Ein Triumph war die experimentelle Bestätigung dieses Positrons durch Carl Anderson 1932. Allerdings führte die Interpretation der Dirac-Gleichung als Wellengleichung zu Widersprüchen. Zudem ergaben sich Probleme bei der Quantisierung der Elektrodynamik, die ebenfalls eine <i>c</i><sup>-1</sup>=1 Theorie ist. Als Ausweg wurde die Quantenfeldtheorie als eine relativistisch konsistente Vielteilchentheorie entwickelt. Diese führte zum Standardmodell der Elementarteilchen, das alle Naturkräfte mit Ausnahme der Gravitation präzise beschreibt. </p>
 
 	<hr />
 
 	<h4>Quantenfeldtheorie</h4>
 
-	<p>Quantenfeldtheorie Die direkte Verall-
-gemeinerung der quantenmechanischen, Galilei-invarianten Schrödinger-Gleichung für die Wahrscheinlichkeitsamplitude ψ eines freien Teilchens der Masse m führt zur Lorentz-invarianten Klein-Gordon Gleichung
+	<p>Die direkte Verallgemeinerung der quantenmechanischen, Galilei-invarianten Schrödinger-Gleichung für die Wahrscheinlichkeitsamplitude ψ eines freien Teilchens der Masse m führt zur Lorentz-invarianten Klein-Gordon Gleichung
 
 
 
 
-Die relativistischen Symmetrien zwischen Raum und Zeit sind wiederhergestellt, denn sowohl die zeitliche als auch alle Ableitungen nach den Raumkoordinaten x, y, z
-sind nun zweiter Ordnung. Zudem hat sich im Vergleich zur Schrödinger-Gleichung die Lichtgeschwindigkeit c zum Planckschen Wirkungsquantum ħ hinzugesellt.
+Die relativistischen Symmetrien zwischen Raum und Zeit sind wiederhergestellt, denn sowohl die zeitliche als auch alle Ableitungen nach den Raumkoordinaten <i>x</i>, <i>y</i>, <i>z</i>
+sind nun zweiter Ordnung. Zudem hat sich im Vergleich zur Schrödinger-Gleichung die Lichtgeschwindigkeit <i>c</i> zum Planckschen Wirkungsquantum ħ hinzugesellt.
 Interessanterweise stellt sich jedoch heraus, dass die Interpretation von ψ als Wahrscheinlichkeitsamplitude im relativistischen Fall nicht mehr konsistent ist. Die Quantenfeldtheorie löst das Problem konzeptionell auf abstrakt mathematische Weise: ψ wird ein operatorwertiges Quantenfeld, das auf einen Hilbert-Raum wirkt.  ψ ist nun in der in der Lage, Teilchen zu erzeugen und zu vernichten. Damit wird die Quantenfeldtheorie per Konstruktion ein Vielteilchenmodell. Die bisher nachgewiesenen freien Materieteilchen allerdings werden auch in der Operatorinterpretation noch nicht vollständig durch obige Gleichung beschrieben. Dirac fand 1928 eine hierfür weitaus besser geeignete Gleichung, die seinen Namen trägt:
 
 
