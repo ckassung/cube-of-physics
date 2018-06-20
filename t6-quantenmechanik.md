@@ -10,7 +10,7 @@ description: <i>G</i>=0&emsp;<i>c</i><sup>-1</sup>=0&emsp;ℏ=0
 
 	<hr />
 
-	<h4>Theorie</h4>
+	<h4>Quantenmechanik</h4>
 
 	<p>Die <a href="{{ "/t1-newtonsche-mechanik.html" | relative_url }}">Newtonsche Mechanik</a> von Massepunkten begründet die Mechanik ausgedehnter Körper bis hin zu Himmelskörpern. Auf kleinsten Längenskalen, im Bereich von atomaren Dimensionen und darunter bricht sie jedoch zusammen. In der klassischen, also der nicht quantenmechanischen Physik wählt die Natur immer nur diejenige Trajektorie, welche die physikalische Wirkung minimiert. Dies ermöglicht es, eine physikalische Realität zu beschreiben und damit letztlich Vorhersagen zu machen, die prinzipiell auch experimentell überprüfbar sind. Offen bleibt dabei allerdings die Frage nach den Mechanismen der Wirkungsminimierung, für die im 18. Jahrhundert metaphysische Prinzipien bemüht werden mussten: »Wenn das Licht nun nicht zugleich den kürzesten und den schnellsten Weg (den der raschesten Fortpflanzung) wählen kann, warum sollte es sich eher entlang des einen Pfads, als entlang des anderen fortpflanzen? Es ist nicht zu bezweifeln, daß alle Dinge von einem Höchsten Wesen geordnet werden.« (Maupertius 1744)</p>
 	
