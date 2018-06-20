@@ -23,12 +23,13 @@ description: <i>G</i>=1&emsp;<i>c</i><sup>-1</sup>=1&emsp;ℏ=0
 
 
 
-Dann nämlich bewegen sich Teilchen auf gekrümmten Bahnen ohne Kraftwirkung oder anders formuliert: Gravitation ist identisch mit der Krümmung der Raumzeit. »Wir wollen daher im folgenden die völlige physikalische Gleichwertigkeit von Gravitationsfeld und entsprechender Beschleunigung des Bezugssystems annehmen.« (Einstein 1907) Die Objekte, die sich im Kosmos bewegen, folgen in ihren Bahnen also nur einem Ziel: Der kürzesten und schnellsten Verbindung in einer gekrümmten Raumzeit. Auf ihrem Weg krümmen sie mit ihrer Masse und Energie wiederum die Raumzeit in ihrer unmittelbaren Umgebung. Alles ist in Bewegung, alles ist dynamisch und höchst nichtlinear. Das ist es, was Einsteins Feldgleichungen beschreiben: Materie (Tmn) krümmt (Rmn und R) die Raumzeit (gmn).
+<p>Dann nämlich bewegen sich Teilchen auf gekrümmten Bahnen ohne Kraftwirkung oder anders formuliert: Gravitation ist identisch mit der Krümmung der Raumzeit. »Wir wollen daher im folgenden die völlige physikalische Gleichwertigkeit von Gravitationsfeld und entsprechender Beschleunigung des Bezugssystems annehmen.« (Einstein 1907) Die Objekte, die sich im Kosmos bewegen, folgen in ihren Bahnen also nur einem Ziel: Der kürzesten und schnellsten Verbindung in einer gekrümmten Raumzeit. Auf ihrem Weg krümmen sie mit ihrer Masse und Energie wiederum die Raumzeit in ihrer unmittelbaren Umgebung. Alles ist in Bewegung, alles ist dynamisch und höchst nichtlinear. Das ist es, was Einsteins Feldgleichungen beschreiben: Materie (<i>T<sub>mn</sub></i>) krümmt (<i>R<sub>mn</sub></i> und <i>R</i>) die Raumzeit (<i>g<sub>mn</sub></i>).</p>
 
 
 
 
-Die Allgemeine Relativitätstheorie löst die Widersprüche zwischen der Newtonschen Gravitation und der Speziellen Relativitätstheorie, indem beide Konstanten G und c—1 zugleich relevant sind: als Theorie (G, c—1, 0) des Würfels.
-Einstein sagte 1916 mit seiner Allgemeinen Relativitätstheorie ebenfalls voraus, dass es analog zu elektromagnetischen Wellen auch Gravitationswellen geben muss. Ihr experimenteller Nachweis erschien ihm aber selbst unrealistisch. 2016 ist dieser Nachweis erstmals mit dem Laser Interferometer Gravitational-Wave Observatory gelungen. Die Entstehung der Gravitationswellen ließ sich durch den Kollaps eines binären Systems von schwarzen Löchern erklären.</p>
+<p>Die Allgemeine Relativitätstheorie löst die Widersprüche zwischen der <a href="{{ "/t2-newtonsche-gravitationstheorie.html" | relative_url }}">Newtonschen Gravitationstheorie</a> und der <a href="{{ "/t4-spezielle-relativitaetstheorie.html" | relative_url }}">Speziellen Relativitätstheorie</a>, indem beide Konstanten <i>G</i> und <i>c</i><sup>-1</sup> zugleich relevant sind: als Theorie (<i>G</i>, <i>c</i><sup>-1</sup>, 0) des Würfels.</p>
+
+<p>Einstein sagte 1916 mit seiner Allgemeinen Relativitätstheorie ebenfalls voraus, dass es analog zu elektromagnetischen Wellen auch Gravitationswellen geben muss. Ihr experimenteller Nachweis erschien ihm aber selbst unrealistisch. 2016 ist dieser Nachweis erstmals mit dem Laser Interferometer Gravitational-Wave Observatory gelungen. Die Entstehung der Gravitationswellen ließ sich durch den Kollaps eines binären Systems von Schwarzen Löchern erklären.</p>
 
 </section>
