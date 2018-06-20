@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Die Theorie von Allem
-description: <i>G</i>=0&emsp;<i>c</i><sup>-1</sup>=0&emsp;ℏ=0
+description: <i>G</i>=1&emsp;<i>c</i><sup>-1</sup>=1&emsp;ℏ=1
 ---
 
 <section>
 
-	<p>Der bisher unentdeckte heilige Gral der modernen Physik. Diese Theorie würde alle drei fundamentalen Konstanten <i>G</i>, <i>c</i><sup>-1</sup> und ℏ umfassen. Es gibt eine ganze Reihe von ambitionierten Anwärtern auf den Thron, allen voran die Stringtheorie und die Schleifenquantengravitation. Allerdings lässt sich für keine dieser beiden Theorien bisher prüfen, ob sie korrekt ist – vermutlich sind am Ende sogar beide falsch, zumindest aber inkomplett. Durch die Kombination der drei fundamentalen Naturkonstanten <i>G</i>, <i>c</i> und ℏ können wir natürliche Einheiten für Raum, Zeit und Masse ableiten, die sogenannten Planck-Einheiten. Dabei stellt sich heraus, dass die Quantengravitation in Größendimensionen relevant wird, die diesen Planck-Einheiten entsprechen. Leider sind diese Skalen extrem weit von allem entfernt, was wir experimentell direkt erschließen können. So liegt die Planck-Länge bei etwa 10<sup>–35</sup> Metern, das ist eine geradezu unvorstellbare 1020-mal kleinere Skala als die Größe des Protons.</p>
+	<p>Der bisher unentdeckte heilige Gral der modernen Physik. Diese Theorie würde alle drei fundamentalen Konstanten <i>G</i>, <i>c</i><sup>-1</sup> und ℏ umfassen. Es gibt eine ganze Reihe von ambitionierten Anwärtern auf den Thron, allen voran die Stringtheorie und die Schleifenquantengravitation. Allerdings lässt sich für keine dieser beiden Theorien bisher prüfen, ob sie korrekt ist – vermutlich sind am Ende sogar beide falsch, zumindest aber inkomplett. Durch die Kombination der drei fundamentalen Naturkonstanten <i>G</i>, <i>c</i> und ℏ können wir natürliche Einheiten für Raum, Zeit und Masse ableiten, die sogenannten Planck-Einheiten. Dabei stellt sich heraus, dass die Quantengravitation in Größendimensionen relevant wird, die diesen Planck-Einheiten entsprechen. Leider sind diese Skalen extrem weit von allem entfernt, was wir experimentell direkt erschließen können. So liegt die Planck-Länge bei etwa 10<sup>–35</sup> Metern, das ist eine geradezu unvorstellbare 10<sup>20</sup>-mal kleinere Skala als die Größe des Protons.</p>
 
 	<hr />
 
