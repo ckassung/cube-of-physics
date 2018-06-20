@@ -12,7 +12,7 @@ description: <i>G</i>=0&emsp;<i>c</i><sup>-1</sup>=0&emsp;ℏ=0
 
 	<h4>Newtonsche Mechanik</h4>
 
-	<p>Newtonsche Mechanik Vom Standpunkt der heutigen Physik aus betrachtet, beschäftigt sich die Newtonsche Mechanik mit der Bewegung von langsamen klassischen Körpern unter dem Einfluss eines Systems von beliebigen physikalischen Kräften. Somit kennt die reine Newtonsche Mechanik per se keine Gravitation <i>G</i>, keine absolute Lichtgeschwindigkeit <i>c</i> und kein Wirkungsquantum ℏ. Sie ist die Theorie (0, 0, 0) des Würfels der Physik und markiert damit den Ursprung des Koordinatensystems der fundamentalen Naturkonstanten. Zugleich wird hierdurch allen weiteren Theorien ihr Platz im Modell zugewiesen.</p>
+	<p>Vom Standpunkt der heutigen Physik aus betrachtet, beschäftigt sich die Newtonsche Mechanik mit der Bewegung von langsamen klassischen Körpern unter dem Einfluss eines Systems von beliebigen physikalischen Kräften. Somit kennt die reine Newtonsche Mechanik per se keine Gravitation <i>G</i>, keine absolute Lichtgeschwindigkeit <i>c</i> und kein Wirkungsquantum ℏ. Sie ist die Theorie (0, 0, 0) des Würfels der Physik und markiert damit den Ursprung des Koordinatensystems der fundamentalen Naturkonstanten. Zugleich wird hierdurch allen weiteren Theorien ihr Platz im Modell zugewiesen.</p>
 
   <p>Bei Hinzunahme der Gravitation bleibt die Newtonsche Mechanik intakt. Sie wird lediglich um das Newtonsche Gravitationsgesetz und die konzeptionelle Vorstellung einer Identität von träger und schwerer Masse – Galileis Beobachtung, dass alle Körper mit der gleichen Beschleunigung fallen – zur Theorie (<i>G</i>, 0, 0) erweitert. Diese definiert somit eine neue Ecke des Würfels.</p>
 
