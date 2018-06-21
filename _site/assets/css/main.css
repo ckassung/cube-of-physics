@@ -1963,9 +1963,15 @@
 			max-width: 40%;
 		}
 
-			.image.left img, .image.right img {
-				width: 100%;
-			}
+		.image.left img, .image.right img {
+			width: 100%;
+		}
+
+		figcaption {
+			font-style: italic;
+  		padding: 10px 4px 2px 4px;
+  		border-radius: 0 0 3px 3px;
+		}
 
 		.image.fit {
 			display: block;
@@ -1973,9 +1979,9 @@
 			width: 100%;
 		}
 
-			.image.fit img {
-				width: 100%;
-			}
+		.image.fit img {
+			width: 100%;
+		}
 
 /* List */
 

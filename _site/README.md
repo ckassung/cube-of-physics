@@ -23,7 +23,9 @@ Again, this can be done also in Atom by clicking "Commit to master". All changes
 
 `git push origin master`
 
-Now, you'll see all changes at [https://github.com/kasumac/cube-of-physics](https://github.com/kasumac/cube-of-physics) and, of course, live at [https://kasumac.github.io/cube-of-physics](https://kasumac.github.io/cube-of-physics).
+Now, you'll see all changes at [https://github.com/kasumac/cube-of-physics](https://github.com/kasumac/cube-of-physics) and, of course, live at [https://kasumac.github.io/cube-of-physics](https://kasumac.github.io/cube-of-physics). **Important**: Before starting to work with your local reposity, always fetch public chances and merge them with your local copy:
+
+`git pull`
 
 
 # How to Use Jekyll
