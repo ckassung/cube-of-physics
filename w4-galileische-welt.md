@@ -6,7 +6,7 @@ description: <i>c</i><sup>-1</sup>=0
 
 <section>
 
-	<p>Ist die Lichtgeschwindigkeit c endlich oder unendlich, also c—1=0? Bis in die frühe Neuzeit beschäftigte diese Frage die Menschen.</p>
+	<p>Ist die Lichtgeschwindigkeit <i>c</i> endlich oder unendlich, also <i>c</i><sup>-1</sup>=0? Bis in die frühe Neuzeit beschäftigte diese Frage die Menschen.</p>
 
   <p><span class="image left"><img src="assets/images/pic03.png" alt="" /></span>Längste Zeit dominierte die aristotelische Meinung, dass sich Licht unendlich schnell bewege, so dass auch etwa Kepler noch daran glaubte. Dagegen vermutete in der Antike aber bereits Empedokles die Endlichkeit von <i>c</i>. In der frühen Neuzeit versuchte Galilei erstmals experimentell die Geschwindigkeit von <i>c</i> mittels Laternen zwischen Hügeln zu messen. Der Nachweis der Endlichkeit gelang aber erst 1676 dem Dänen Ole Rømer mit astronomischen Methoden. Freilich ohne sich dessen bewusst zu sein, sägte Galilei mit seinen Laternenexperimenten an seiner eigenen Raum-Zeit-Theorie. Denn nach den Arbeiten von James Clerk Maxwell zur Elektrodynamik und Albert Einstein zur <a href="{{ "/t4-spezielle-relativitaetstheorie.html" | relative_url }}">Speziellen Relativitätstheorie</a> weiß man, dass die Endlichkeit von <i>c</i> einhergeht mit dessen Konstanz in beliebigen Bezugssystemen. Dies erfordert die Ersetzung der Galileischen Invarianzgesetze für Bezugssysteme durch die Lorentz-Transformation. Letztere sind nämlich struktureller Bestandteil der Elektrodynamik und <a href="{{ "/t4-spezielle-relativitaetstheorie.html" | relative_url }}">Speziellen Relativitätstheorie</a>. Bildet man formal in den Lorentzschen Formeln den Limes c&rarr;∞, so erhält man die Galileischen Transformationsregeln zurück.</p>
 
