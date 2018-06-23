@@ -20,10 +20,8 @@ description: <i>G</i>=1&emsp;<i>c</i><sup>-1</sup>=1&emsp;ℏ=1
 
 	<p>Die Superstringtheorie hat ihre Wurzeln in der <a href="{{ "/t5-quantenfeldtheorie.html" | relative_url }}">Quantenfeldtheorie</a>. Deren Punktteilchen werden durch schwingende Saiten, die sogenannten Strings, ersetzt, um die verschiedenen Teilchen der Natur als Schwingungszustände der Strings darstellen zu können. Durch diesen Ansatz verschwinden die Divergenzen, Teilchen- und Gravitationsphysik werden vereint. Ein hypothetisches »Graviton« tritt auf, die Welt wird 10- oder sogar 11-dimensional, und unsere Welt ist nur eine von mindestens 10<sup>500</sup> vielen. Einige dieser Welten ähneln dem Standardmodell der Teilchenphysik, aber leider ist darunter bisher noch keine entdeckt, die genau unser Standardmodell liefert. Ein spekulativer Ausweg ist die Idee des Multiversums: Viele dieser möglichen Welten sind demzufolge in nicht miteinander kommunizierenden Paralleluniversen existent. In diesem Szenario wären die vielen bisher unerklärten Parameter des Standardmodells letztlich kontingent bzw. dadurch festgelegt, dass sie intelligentes Leben ermöglichen (anthropisches Prinzip).</p>
 
-	<div class="box alt">
-		<div class="row uniform 50%">
-			<figure class="image center"><img src="assets/images/theorie-von-allem_web.png" alt="" /><figcaption>Kosmische Hintergrundstrahlung.</figcaption></figure>
-		</div>
+	<div class="figure-center">
+		<figure><img src="assets/images/theorie-von-allem_web.png" width="60%" alt="" /><figcaption>Kosmische Hintergrundstrahlung.</figcaption></figure>
 	</div>
 
 	<p>Die Schleifenquantengravitation hat ihre Wurzeln in der <a href="{{ "/t3-allgemeine-relativitaetstheorie.html" | relative_url }}">Allgemeinen Relativitätstheorie</a>. Letztere wird direkt quantisiert; dies führt zu einer Art ›Quantenschaum‹ auf der Planck-Skala  im Bereich von 10<sup>—35</sup> <i>m</i>. Es gibt viele sich teilweise widersprechende Zugänge, aber in bisher keinem eine natürliche Vereinheitlichung mit den Quantenfeldtheorien des Standardmodells. Die Quantenfeldtheorien des Standardmodells müssen gewissermaßen »hinzugeheftet« werden.</p>

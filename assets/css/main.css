@@ -1983,10 +1983,10 @@
 			width: 100%;
 		}
 
-		.image.center img {
+		.figure-center {
+			display: block;
 			text-align: center;
-			margin: 0 0 2em 0;
-			width: 60%;
+			margin: auto auto 2em 0;
 		}
 
 /* List */
