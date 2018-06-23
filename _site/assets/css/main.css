@@ -1983,6 +1983,12 @@
 			width: 100%;
 		}
 
+		.image.center img {
+			text-align: center;
+			margin: 0 0 2em 0;
+			width: 60%;
+		}
+
 /* List */
 
 	ol {
