@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Theorien und Welten
-description: Lassen sich die Geschichte und der Status quo der Physik in einem Objekt erfassen? Der Würfel der Physik soll genau dies leisten und liefert ein Modell des Denkgebäudes der Physik. Die Idee, eine Landkarte der Physik basierend auf den Konstanten <i>G</i>, <i>c</i> und <i>ħ</i> zu erstellen, geht auf den russischen Physiker Matwei Petrowitsch Bronstein im Jahr 1933 zurück.
+description: Lassen sich die Geschichte und der Status quo der Physik in einem Objekt erfassen? Der Würfel der Physik soll genau dies leisten und liefert ein Modell des Denkgebäudes der Physik. Die Idee, eine Landkarte der Physik basierend auf den Konstanten <i>G</i>, <div style="text-transform:none"><i>c</i></div> und ℏ zu erstellen, geht auf den russischen Physiker Matwei Petrowitsch Bronstein im Jahr 1933 zurück.
 image: pic02.png
 ---
 
