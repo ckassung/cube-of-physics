@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Die Naturkonstanten
-description: Die Physik kennt die drei fundamentalen dimensionsbehafteten Naturkonstanten <i>G</i>, <i>c</i> und ℏ. Sie spannen den Würfel der Physik auf und definieren seine Theorien und Welten.
+description: Die Physik kennt die drei fundamentalen dimensionsbehafteten Naturkonstanten <i>G</i>, <i>c</i><sup>-1</sup> und ℏ. Sie spannen den Würfel der Physik auf und definieren seine Theorien und Welten.
 image: pic01.png
 ---
 
